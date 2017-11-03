@@ -1,2 +1,2 @@
 <?php
-	header("Location: http://huajuapandeleon.gob.mx/");
+	header("Location: ../index");
