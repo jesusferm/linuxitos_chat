@@ -2,7 +2,7 @@
 // Parámetros para la conexión DB
 define("DB_HOST", "localhost");
 define("DB_USER", "root");
-define("DB_PASS", "d7yMyRVFGybbPDcF");
+define("DB_PASS", "");
 define("DB_NAME", "linuxitos_chat");
 define("DB_PORT", "3307");
 
